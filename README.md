@@ -3,6 +3,8 @@
  - Workflow Declaration
    - Work Breakdown Structure
      - Sequential Tasks
+       - Progressing Sequence
+       - Bidirectional Sequence
      - Parallel Tasks
    - Departments
    - Predecessors
