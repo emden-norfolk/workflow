@@ -11,7 +11,7 @@
    - Labels
    - Assignee
    - Comments
-   - Checklists / Instructions
+   - [Checklists / Instructions](https://github.com/github/task-lists-element)
    - Due date
  - Projects
    - Project Codes
