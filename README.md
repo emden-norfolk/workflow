@@ -2,11 +2,13 @@
 
  - Workflow Declaration
    - Work Breakdown Structure
+     - Sequential Tasks
+     - Parallel Tasks
    - Departments
    - Predecessors
    - Critical Path Method
- - Cards
-   - Status open/closed (Kanban?)
+ - Tasks (Kanban Cards?)
+   - Status open/closed
       - Closed reason
    - Labels
    - Assignee
