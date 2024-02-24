@@ -6,6 +6,7 @@
        - Progressing Sequence
        - Bidirectional Sequence
      - Parallel Tasks
+     - Conditions
    - Departments
    - Predecessors
    - Critical Path Method
