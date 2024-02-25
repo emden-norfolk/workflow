@@ -1,0 +1,20 @@
+{
+  "name": "workflow",
+  "source": [
+    "resources/css/index.css",
+    "resources/js/index.js"
+  ],
+  "scripts": {
+    "build": "parcel build --no-optimize"
+  },
+  "dependencies": {
+    "@github/include-fragment-element": "^6.3.0",
+    "element-loaded-by-id": "^0.0.3",
+    "mutation-initialiser": "^0.1.0",
+    "table-cells-alike": "^0.1.1",
+    "tributejs": "^5.1.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
